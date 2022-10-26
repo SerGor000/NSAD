@@ -1,0 +1,58 @@
+ls, cd, cp, rm, mkdir
+pwd
+touch
+
+ADRESARE - USER, HOME, PATH
+echo $HOME
+echo "Hello"
+PATH - hleda jestli command neni v adresari
+which ls - najde kde je ls ulozeno v path
+program potrebuje zacit ./
+program potrebuje pravo x
+ls -hl
+editorz - pico, nano, emacs, vi(m), gedit
+who/w
+ctrl+C
+ps
+top
+kill [PID]
+kill -9
+history
+Ctrl+A
+Ctrl+E
+Ctrl+K - cut od kurzoru do konce radku
+Ctrl+D - logout
+sleep 5m & = spusti sleep na pozadi
+fg - vypise pozadi
+Ctrl+Z 
+bg - posle na pozadi
+emacs ctrl-x ctrl-c
+scp program191022 cervead4@sunrise.fjfi.cvut.cz:.
+pro cely adresar -r
+pro nazev souboru nelze pouzit * ani ?
+scp *.txt = zkopiruje vsechny txt
+* = rozbaluje
+? = nejisty znak
+ls -a = zobrazi skryte soubory
+.bash_history
+.bash_rc - uzivatelske nastaveni
+cat = vypise do terminalu
+less
+more
+tls = 'ls -hlpt'
+grep
+diff soubor1 soubor2
+find . -name soubor1
+du
+du -hs
+tar
+ln
+alias ls ll-'ls -l'
+
+man
+program -h
+program --help
+google
+stackoverflow.com
+
+Pro windows: vnc

@@ -1,0 +1,12 @@
+Programovaci jazyky
+-Kompilovane
+--Fortran
+--C++
+
+-Interpretovane
+--Python
+--Bash
+--brainfuck
+
+BASH JAKO PROGRAMOVACI JAZYK
+- bash zsh tcsh 
